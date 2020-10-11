@@ -1,0 +1,2 @@
+# newgittext
+这是一个新手的git与github的初体验测试仓库
